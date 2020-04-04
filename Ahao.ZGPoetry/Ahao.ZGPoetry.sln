@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ahao.ZGPoetry", "Ahao.ZGPoetry\Ahao.ZGPoetry.csproj", "{EE7C9D90-0758-4F0B-9613-02D4A0AA11A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7C9D90-0758-4F0B-9613-02D4A0AA11A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7C9D90-0758-4F0B-9613-02D4A0AA11A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7C9D90-0758-4F0B-9613-02D4A0AA11A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7C9D90-0758-4F0B-9613-02D4A0AA11A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2574817E-500B-4603-A5DF-058E4CA2DE10}
+	EndGlobalSection
+EndGlobal
