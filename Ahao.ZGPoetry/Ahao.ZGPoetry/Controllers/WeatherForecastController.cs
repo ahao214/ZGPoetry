@@ -7,6 +7,9 @@ using Microsoft.Extensions.Logging;
 
 namespace Ahao.ZGPoetry.Controllers
 {
+    /// <summary>
+    /// 获取天气的API
+    /// </summary>
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
@@ -23,6 +26,10 @@ namespace Ahao.ZGPoetry.Controllers
             _logger = logger;
         }
 
+        /// <summary>
+        /// 获取
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {

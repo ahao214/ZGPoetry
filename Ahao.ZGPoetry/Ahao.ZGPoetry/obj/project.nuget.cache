@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "sJkgRbjYaw6dovAqXCED87DuYsKLoXRnb6Q78zFfhtybZEaI07qwI32Bx7zd9gNUtssVG/gKr663ecSKLMDXuQ==",
+  "dgSpecHash": "ynqixCwT19WjZCt2osLfUuK9Qs8VdbgMroiC6hsEWzuR6866YrERLmbkpP27w1zsdNzNYBvVm4enn+UjQSAGXg==",
   "success": true,
   "projectFilePath": "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\swashbuckle.aspnetcore\\5.3.1\\swashbuckle.aspnetcore.5.3.1.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.3.1\\swashbuckle.aspnetcore.swagger.5.3.1.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.3.1\\swashbuckle.aspnetcore.swaggergen.5.3.1.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.3.1\\swashbuckle.aspnetcore.swaggerui.5.3.1.nupkg.sha512"
+  ],
   "logs": []
 }

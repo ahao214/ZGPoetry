@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Ahao.ZGPoetry</name>
+    </assembly>
+    <members>
+        <member name="T:Ahao.ZGPoetry.Controllers.WeatherForecastController">
+            <summary>
+            获取天气的API
+            </summary>
+        </member>
+        <member name="M:Ahao.ZGPoetry.Controllers.WeatherForecastController.Get">
+            <summary>
+            获取
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
