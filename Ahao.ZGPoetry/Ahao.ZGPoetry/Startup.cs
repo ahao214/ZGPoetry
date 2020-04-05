@@ -41,6 +41,7 @@ namespace Ahao.ZGPoetry
                 c.IncludeXmlComments(xmlPath, true);//默认的第二个参数是false,对方法的注释,修改成true                
             });
             services.AddControllers();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
