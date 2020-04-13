@@ -1805,6 +1805,16 @@
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
       },
+      "Ahao.ZGPoetry.IRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Ahao.ZGPoetry.IRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ahao.ZGPoetry.IRepository.dll": {}
+        }
+      },
       "Ahao.ZGPoetry.IService/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1829,6 +1839,16 @@
         },
         "runtime": {
           "bin/placeholder/Ahao.ZGPoetry.Model.dll": {}
+        }
+      },
+      "Ahao.ZGPoetry.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Ahao.ZGPoetry.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ahao.ZGPoetry.Repository.dll": {}
         }
       }
     }
@@ -6208,6 +6228,11 @@
         "system.xml.xmldocument.nuspec"
       ]
     },
+    "Ahao.ZGPoetry.IRepository/1.0.0": {
+      "type": "project",
+      "path": "../Ahao.ZGPoetry.IRepository/Ahao.ZGPoetry.IRepository.csproj",
+      "msbuildProject": "../Ahao.ZGPoetry.IRepository/Ahao.ZGPoetry.IRepository.csproj"
+    },
     "Ahao.ZGPoetry.IService/1.0.0": {
       "type": "project",
       "path": "../Ahao.ZGPoetry.IService/Ahao.ZGPoetry.IService.csproj",
@@ -6217,11 +6242,18 @@
       "type": "project",
       "path": "../Ahao.ZGPoetry.Model/Ahao.ZGPoetry.Model.csproj",
       "msbuildProject": "../Ahao.ZGPoetry.Model/Ahao.ZGPoetry.Model.csproj"
+    },
+    "Ahao.ZGPoetry.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Ahao.ZGPoetry.Repository/Ahao.ZGPoetry.Repository.csproj",
+      "msbuildProject": "../Ahao.ZGPoetry.Repository/Ahao.ZGPoetry.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Ahao.ZGPoetry.IRepository >= 1.0.0",
       "Ahao.ZGPoetry.IService >= 1.0.0",
+      "Ahao.ZGPoetry.Repository >= 1.0.0",
       "AutoMapper >= 9.0.0",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 7.0.0"
     ]
@@ -6259,8 +6291,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.IRepository\\Ahao.ZGPoetry.IRepository.csproj": {
+              "projectPath": "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.IRepository\\Ahao.ZGPoetry.IRepository.csproj"
+            },
             "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.IService\\Ahao.ZGPoetry.IService.csproj": {
               "projectPath": "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.IService\\Ahao.ZGPoetry.IService.csproj"
+            },
+            "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.Repository\\Ahao.ZGPoetry.Repository.csproj": {
+              "projectPath": "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.Repository\\Ahao.ZGPoetry.Repository.csproj"
             }
           }
         }

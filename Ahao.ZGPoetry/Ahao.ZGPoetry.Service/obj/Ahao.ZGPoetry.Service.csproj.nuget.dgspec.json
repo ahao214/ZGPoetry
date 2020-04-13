@@ -4,6 +4,63 @@
     "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.Service\\Ahao.ZGPoetry.Service.csproj": {}
   },
   "projects": {
+    "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.IRepository\\Ahao.ZGPoetry.IRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.IRepository\\Ahao.ZGPoetry.IRepository.csproj",
+        "projectName": "Ahao.ZGPoetry.IRepository",
+        "projectPath": "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.IRepository\\Ahao.ZGPoetry.IRepository.csproj",
+        "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
+        "outputPath": "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.IRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.IService\\Ahao.ZGPoetry.IService.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -128,6 +185,63 @@
         }
       }
     },
+    "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.Repository\\Ahao.ZGPoetry.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.Repository\\Ahao.ZGPoetry.Repository.csproj",
+        "projectName": "Ahao.ZGPoetry.Repository",
+        "projectPath": "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.Repository\\Ahao.ZGPoetry.Repository.csproj",
+        "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
+        "outputPath": "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.Service\\Ahao.ZGPoetry.Service.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -156,8 +270,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
+              "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.IRepository\\Ahao.ZGPoetry.IRepository.csproj": {
+                "projectPath": "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.IRepository\\Ahao.ZGPoetry.IRepository.csproj"
+              },
               "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.IService\\Ahao.ZGPoetry.IService.csproj": {
                 "projectPath": "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.IService\\Ahao.ZGPoetry.IService.csproj"
+              },
+              "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.Repository\\Ahao.ZGPoetry.Repository.csproj": {
+                "projectPath": "F:\\MyProgramm\\VS19\\ZGPoetry\\Ahao.ZGPoetry\\Ahao.ZGPoetry.Repository\\Ahao.ZGPoetry.Repository.csproj"
               }
             }
           }

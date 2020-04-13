@@ -10,7 +10,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Ahao.ZGPoetry.IRepository\Ahao.ZGPoetry.IRepository.csproj" />
     <ProjectReference Include="..\Ahao.ZGPoetry.IService\Ahao.ZGPoetry.IService.csproj" />
+    <ProjectReference Include="..\Ahao.ZGPoetry.Repository\Ahao.ZGPoetry.Repository.csproj" />
   </ItemGroup>
 
 </Project>
