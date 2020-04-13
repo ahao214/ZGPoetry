@@ -1,0 +1,8 @@
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Repository\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.deps.json
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Repository\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.dll
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Repository\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.pdb
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Repository\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.csproj.CoreCompileInputs.cache
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Repository\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.AssemblyInfoInputs.cache
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Repository\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.AssemblyInfo.cs
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Repository\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.dll
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Repository\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.pdb
