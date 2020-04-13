@@ -7,7 +7,7 @@ namespace Ahao.ZGPoetry.IService
     /// <summary>
     /// 朝代
     /// </summary>
-    public interface IDynasty
+    public interface IDynastyService
     {
         bool Add(Dynasty model);
         bool Edit(Dynasty model);

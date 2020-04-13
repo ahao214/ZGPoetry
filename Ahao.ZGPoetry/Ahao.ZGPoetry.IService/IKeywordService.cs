@@ -1,14 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Ahao.ZGPoetry.IService;
 
-namespace Ahao.ZGPoetry.Service
+namespace Ahao.ZGPoetry.IService
 {
     /// <summary>
-    /// 诗歌体裁
+    /// 关键词
     /// </summary>
-    public class Genre:IGenre
+    public interface IKeywordService
     {
     }
 }

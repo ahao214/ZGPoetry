@@ -7,7 +7,7 @@ namespace Ahao.ZGPoetry.IService
     /// <summary>
     /// 诗歌体裁
     /// </summary>
-    public interface IGenre
+    public interface IGenreService
     {
     }
 }

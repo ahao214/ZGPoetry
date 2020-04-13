@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Ahao.ZGPoetry.Service
+namespace Ahao.ZGPoetry.IService
 {
     /// <summary>
-    /// 关键词
+    /// 诗人
     /// </summary>
-    public class Keyword
+    public interface IPoetService
     {
     }
 }

@@ -8,7 +8,7 @@ namespace Ahao.ZGPoetry.Service
     /// <summary>
     /// 朝代
     /// </summary>
-    public class Dynasty : IDynasty
+    public class DynastyService : IDynastyService
     {
         public bool Add(Model.Dynasty model)
         {
