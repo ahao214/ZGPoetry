@@ -1,13 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
+using System.Security.Claims;
+using Ahao.ZGPoetry.Common;
+using System.IdentityModel.Tokens.Jwt;
+using System.Text;
+using Microsoft.IdentityModel.Tokens;
+
 
 namespace Ahao.ZGPoetry.AuthHelper.OverWrite
 {
     public class JwtHelper
     {
-
         /// <summary>
         /// 颁发JWT字符串
         /// </summary>

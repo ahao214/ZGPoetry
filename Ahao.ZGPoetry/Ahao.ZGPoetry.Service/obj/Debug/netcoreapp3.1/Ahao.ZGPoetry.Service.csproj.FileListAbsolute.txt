@@ -12,3 +12,7 @@ F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\obj\Debug\netcor
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Service.csproj.CopyComplete
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Service.dll
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Service.pdb
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.IRepository.dll
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.dll
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.IRepository.pdb
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.pdb
