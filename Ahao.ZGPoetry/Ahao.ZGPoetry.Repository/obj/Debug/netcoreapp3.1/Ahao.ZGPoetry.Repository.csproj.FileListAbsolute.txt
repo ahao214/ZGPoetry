@@ -6,4 +6,3 @@ F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Repository\obj\Debug\net
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Repository\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.AssemblyInfo.cs
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Repository\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.dll
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Repository\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.pdb
-F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Repository\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.csprojAssemblyReference.cache

@@ -1,9 +1,13 @@
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Service.deps.json
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Service.dll
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Service.pdb
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.IRepository.dll
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.IService.dll
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Model.dll
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.dll
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.IRepository.pdb
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.IService.pdb
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.pdb
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Model.pdb
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Service.csprojAssemblyReference.cache
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Service.csproj.CoreCompileInputs.cache
@@ -12,7 +16,3 @@ F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\obj\Debug\netcor
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Service.csproj.CopyComplete
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Service.dll
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Service.pdb
-F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.IRepository.dll
-F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.dll
-F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.IRepository.pdb
-F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Service\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Repository.pdb

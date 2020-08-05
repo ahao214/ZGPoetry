@@ -1,9 +1,9 @@
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.IRepository\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.IRepository.deps.json
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.IRepository\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.IRepository.dll
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.IRepository\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.IRepository.pdb
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.IRepository\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.IRepository.csprojAssemblyReference.cache
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.IRepository\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.IRepository.csproj.CoreCompileInputs.cache
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.IRepository\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.IRepository.AssemblyInfoInputs.cache
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.IRepository\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.IRepository.AssemblyInfo.cs
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.IRepository\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.IRepository.dll
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.IRepository\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.IRepository.pdb
-F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.IRepository\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.IRepository.csprojAssemblyReference.cache
-F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.IRepository\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.IRepository.csproj.CoreCompileInputs.cache

@@ -1,9 +1,9 @@
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Model\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Model.deps.json
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Model\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Model.dll
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Model\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Model.pdb
+F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Model\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Model.csprojAssemblyReference.cache
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Model\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Model.csproj.CoreCompileInputs.cache
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Model\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Model.AssemblyInfoInputs.cache
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Model\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Model.AssemblyInfo.cs
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Model\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Model.dll
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Model\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Model.pdb
-F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Model\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Model.csprojAssemblyReference.cache
