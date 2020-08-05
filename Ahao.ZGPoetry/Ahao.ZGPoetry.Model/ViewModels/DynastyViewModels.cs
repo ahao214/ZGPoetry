@@ -1,16 +1,15 @@
 ﻿using System;
-using Ahao.ZGPoetry.Model.Models;
-using SqlSugar;
+using System.Collections.Generic;
+using System.Text;
 
-
-namespace Ahao.ZGPoetry.Model
+namespace Ahao.ZGPoetry.Model.ViewModels
 {
     /// <summary>
     /// 朝代表
     /// </summary>
-    [SugarTable("T_Dynasty")]
-    public class Dynasty : RootEntity
+    public class DynastyViewModels
     {
+        public int ID { get; set; }
         public string Name { get; set; }
         /// <summary>
         /// 持续时间
@@ -18,13 +17,12 @@ namespace Ahao.ZGPoetry.Model
         public string Duration { get; set; }
         /// <summary>
         /// 备注
-        /// </summary>
-        [SugarColumn(Length = int.MaxValue, IsNullable = true, ColumnDataType = "nvarchar")]
+        /// </summary>   
         public string Remark { get; set; }
 
         /// <summary>
         /// 创建时间
         /// </summary>
-        public DateTime Createdate { get; set; } = DateTime.Now;
+        public DateTime Createdate { get; set; }
     }
 }

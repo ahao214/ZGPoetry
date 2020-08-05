@@ -1,16 +1,15 @@
-﻿using SqlSugar;
-using Ahao.ZGPoetry.Model.Models;
-using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace Ahao.ZGPoetry.Model
+namespace Ahao.ZGPoetry.Model.ViewModels
 {
-
     /// <summary>
     /// 诗歌表
     /// </summary>
-    [SugarTable("T_Poem")]
-    public class Poem : RootEntity
+    public class PoemViewModels
     {
+        public int ID { get; set; }
         /// <summary>
         /// 题目
         /// </summary>
@@ -34,13 +33,11 @@ namespace Ahao.ZGPoetry.Model
         /// <summary>
         /// 备注
         /// </summary>
-        [SugarColumn(Length = int.MaxValue, IsNullable = true, ColumnDataType = "nvarchar")]
         public string Remark { get; set; }
 
         /// <summary>
         /// 创建时间
         /// </summary>
-        public DateTime Createdate { get; set; } = DateTime.Now;
-
+        public DateTime Createdate { get; set; }
     }
 }
