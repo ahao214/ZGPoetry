@@ -1,7 +1,6 @@
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Common\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Common.deps.json
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Common\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Common.dll
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Common\bin\Debug\netcoreapp3.1\Ahao.ZGPoetry.Common.pdb
-F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Common\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Common.csprojAssemblyReference.cache
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Common\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Common.csproj.CoreCompileInputs.cache
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Common\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Common.AssemblyInfoInputs.cache
 F:\MyProgramm\VS19\ZGPoetry\Ahao.ZGPoetry\Ahao.ZGPoetry.Common\obj\Debug\netcoreapp3.1\Ahao.ZGPoetry.Common.AssemblyInfo.cs

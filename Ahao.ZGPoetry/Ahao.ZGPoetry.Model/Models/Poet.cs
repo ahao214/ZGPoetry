@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Ahao.ZGPoetry.Model.Models;
 using SqlSugar;
 
 namespace Ahao.ZGPoetry.Model
@@ -8,12 +6,9 @@ namespace Ahao.ZGPoetry.Model
     /// <summary>
     /// 诗人表
     /// </summary>
-   [SugarTable("T_Poet")]
-   public  class Poet
-    {
-        [SugarColumn(IsPrimaryKey =true)]
-        public int ID { get; set; }
-
+    [SugarTable("T_Poet")]
+   public  class Poet: RootEntity
+    {      
         public string Name { get; set; }
 
         public string  Zi { get; set; }

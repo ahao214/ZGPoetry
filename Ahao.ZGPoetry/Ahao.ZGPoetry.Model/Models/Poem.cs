@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using SqlSugar;
+﻿using SqlSugar;
+using Ahao.ZGPoetry.Model.Models;
 
 namespace Ahao.ZGPoetry.Model
 {
@@ -10,10 +8,8 @@ namespace Ahao.ZGPoetry.Model
     /// 诗歌表
     /// </summary>
     [SugarTable("T_Poem")]
-    public class Poem
+    public class Poem : RootEntity
     {
-        [SugarColumn(IsPrimaryKey =true)]
-        public int ID { get; set; }
         /// <summary>
         /// 题目
         /// </summary>
@@ -25,7 +21,7 @@ namespace Ahao.ZGPoetry.Model
         /// <summary>
         /// 内容
         /// </summary>
-        public string  Context { get; set; }
+        public string Context { get; set; }
         /// <summary>
         /// 讲解
         /// </summary>
@@ -33,7 +29,7 @@ namespace Ahao.ZGPoetry.Model
         /// <summary>
         /// 体裁
         /// </summary>
-        public string  Type { get; set; }
+        public string Type { get; set; }
 
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+using Ahao.ZGPoetry.Model.Models;
 using SqlSugar;
 
 
@@ -8,14 +9,12 @@ namespace Ahao.ZGPoetry.Model
     /// 朝代表
     /// </summary>
     [SugarTable("T_Dynasty")]
-    public class Dynasty
+    public class Dynasty : RootEntity
     {
-        [SugarColumn(IsPrimaryKey =true)]
-        public int ID { get; set; }
         public string Name { get; set; }
         /// <summary>
         /// 持续时间
         /// </summary>
-        public string Duration { get; set; }     
+        public string Duration { get; set; }
     }
 }
